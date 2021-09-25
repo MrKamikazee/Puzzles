@@ -1,9 +1,9 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Mapa Final","order":4,"parentId":0,"scrollX":819,"scrollY":457},
-{"id":2,"expanded":true,"name":"Nivel 1","order":3,"parentId":0,"scrollX":819,"scrollY":457},
-{"id":3,"expanded":false,"name":"Posible nivel 2","order":6,"parentId":0,"scrollX":819,"scrollY":457},
-{"id":4,"expanded":true,"name":"Intro","order":1,"parentId":0,"scrollX":819,"scrollY":457},
-{"id":5,"expanded":false,"name":"Tutorial","order":2,"parentId":0,"scrollX":819,"scrollY":457},
-{"id":6,"expanded":false,"name":"Pruebas","order":5,"parentId":0,"scrollX":811,"scrollY":491}
+{"id":1,"expanded":false,"name":"Mapa Final","order":4,"parentId":0,"scrollX":1224,"scrollY":833.3333333333334},
+{"id":2,"expanded":true,"name":"Nivel 1","order":3,"parentId":0,"scrollX":459,"scrollY":312.5},
+{"id":3,"expanded":false,"name":"Posible nivel 2","order":6,"parentId":0,"scrollX":1224,"scrollY":833.3333333333334},
+{"id":4,"expanded":true,"name":"Intro","order":1,"parentId":0,"scrollX":1224,"scrollY":833.3333333333334},
+{"id":5,"expanded":false,"name":"Tutorial","order":2,"parentId":0,"scrollX":1224,"scrollY":833.3333333333334},
+{"id":6,"expanded":false,"name":"Pruebas","order":5,"parentId":0,"scrollX":1224,"scrollY":833.3333333333334}
 ]
