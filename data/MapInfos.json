@@ -10,9 +10,9 @@ null,
 {"id":8,"expanded":false,"name":"Nivel 1 B","order":6,"parentId":2,"scrollX":6552,"scrollY":3688},
 {"id":9,"expanded":true,"name":"Nivel 2 fake","order":10,"parentId":0,"scrollX":6166.666666666667,"scrollY":3794.6666666666665},
 {"id":10,"expanded":false,"name":"Habitacion de los dioses 1","order":3,"parentId":0,"scrollX":982.8,"scrollY":548.4},
-{"id":11,"expanded":true,"name":"Nivel 2 A","order":9,"parentId":3,"scrollX":893.4545454545455,"scrollY":494.1818181818182},
+{"id":11,"expanded":true,"name":"Nivel 2 A","order":9,"parentId":3,"scrollX":1404,"scrollY":790.2857142857142},
 {"id":12,"expanded":false,"name":"Habitacion de los dioses 3","order":12,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":13,"expanded":false,"name":"Habitacion de los dioses 4","order":13,"parentId":0,"scrollX":1965.6,"scrollY":1106.3999999999999},
 {"id":14,"expanded":false,"name":"Centro","order":7,"parentId":0,"scrollX":1081.3333333333333,"scrollY":1029.3333333333333},
-{"id":15,"expanded":false,"name":"Cueva de alcantarillas","order":14,"parentId":0,"scrollX":1384.6666666666667,"scrollY":992.6666666666666}
+{"id":15,"expanded":false,"name":"Cueva de alcantarillas","order":14,"parentId":0,"scrollX":1390.2857142857142,"scrollY":992.5714285714286}
 ]
