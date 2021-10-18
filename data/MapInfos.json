@@ -1,18 +1,18 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Mapa Final","order":11,"parentId":0,"scrollX":819,"scrollY":461},
-{"id":2,"expanded":false,"name":"Nivel 1","order":4,"parentId":0,"scrollX":819,"scrollY":457},
-{"id":3,"expanded":true,"name":"Nivel 2","order":8,"parentId":0,"scrollX":1349,"scrollY":449},
+{"id":1,"expanded":false,"name":"Mapa Final","order":11,"parentId":0,"scrollX":409.5,"scrollY":317},
+{"id":2,"expanded":false,"name":"Nivel 1","order":4,"parentId":0,"scrollX":409.5,"scrollY":307},
+{"id":3,"expanded":true,"name":"Nivel 2","order":8,"parentId":0,"scrollX":1341.5,"scrollY":441},
 {"id":4,"expanded":true,"name":"Intro","order":1,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":5,"expanded":false,"name":"Tutorial","order":2,"parentId":0,"scrollX":819,"scrollY":457},
-{"id":6,"expanded":false,"name":"Pruebas","order":13,"parentId":0,"scrollX":816,"scrollY":800},
+{"id":6,"expanded":false,"name":"Pruebas","order":13,"parentId":0,"scrollX":1030.5,"scrollY":1080},
 {"id":7,"expanded":false,"name":"Nivel 1 A","order":5,"parentId":2,"scrollX":819,"scrollY":457},
 {"id":8,"expanded":false,"name":"Nivel 1 B","order":6,"parentId":2,"scrollX":832,"scrollY":640},
-{"id":9,"expanded":true,"name":"Nivel 2 fake","order":12,"parentId":0,"scrollX":5480,"scrollY":3794},
-{"id":10,"expanded":false,"name":"Habitacion de los dioses 1","order":3,"parentId":0,"scrollX":819,"scrollY":457},
-{"id":11,"expanded":true,"name":"Nivel 2 A","order":9,"parentId":3,"scrollX":819,"scrollY":457},
-{"id":12,"expanded":false,"name":"Habitacion de los dioses 3","order":14,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":9,"expanded":true,"name":"Nivel 2 fake","order":12,"parentId":0,"scrollX":5480.5,"scrollY":3794},
+{"id":10,"expanded":false,"name":"Habitacion de los dioses 1","order":3,"parentId":0,"scrollX":542.5,"scrollY":299},
+{"id":11,"expanded":true,"name":"Nivel 2 A","order":9,"parentId":3,"scrollX":409.5,"scrollY":317},
+{"id":12,"expanded":false,"name":"Habitacion de los dioses 3","order":14,"parentId":0,"scrollX":409.5,"scrollY":317},
 {"id":13,"expanded":false,"name":"Habitacion de los dioses 4","order":15,"parentId":0,"scrollX":1965.6,"scrollY":1106.3999999999999},
-{"id":14,"expanded":false,"name":"Centro","order":7,"parentId":0,"scrollX":1136,"scrollY":1080},
-{"id":15,"expanded":false,"name":"Nivel 3","order":10,"parentId":0,"scrollX":816,"scrollY":1296}
+{"id":14,"expanded":false,"name":"Centro","order":7,"parentId":0,"scrollX":1136.5,"scrollY":1080},
+{"id":15,"expanded":false,"name":"Nivel 3","order":10,"parentId":0,"scrollX":1140.5,"scrollY":397}
 ]
