@@ -13,10 +13,10 @@ null,
 {"id":11,"expanded":true,"name":"Nivel 2 A","order":9,"parentId":3,"scrollX":819,"scrollY":457},
 {"id":12,"expanded":false,"name":"Nivel 2 C","order":11,"parentId":3,"scrollX":819,"scrollY":457},
 {"id":13,"expanded":true,"name":"Nivel 2 B","order":10,"parentId":3,"scrollX":819,"scrollY":457},
-{"id":14,"expanded":true,"name":"Centro","order":7,"parentId":0,"scrollX":1083,"scrollY":916},
-{"id":15,"expanded":true,"name":"Nivel 3","order":12,"parentId":0,"scrollX":1319,"scrollY":593},
+{"id":14,"expanded":true,"name":"Centro","order":7,"parentId":0,"scrollX":1157,"scrollY":753},
+{"id":15,"expanded":false,"name":"Nivel 3","order":12,"parentId":0,"scrollX":1319,"scrollY":593},
 {"id":16,"expanded":true,"name":"Centro Final","order":17,"parentId":0,"scrollX":1082,"scrollY":1130},
 {"id":17,"expanded":false,"name":"Interruptor cascada","order":13,"parentId":15,"scrollX":811,"scrollY":503},
 {"id":18,"expanded":false,"name":"Sala Dioses","order":16,"parentId":0,"scrollX":819,"scrollY":457},
-{"id":19,"expanded":true,"name":"Diosa Nivel 3","order":14,"parentId":15,"scrollX":1046,"scrollY":1056}
+{"id":19,"expanded":false,"name":"Diosa Nivel 3","order":14,"parentId":15,"scrollX":1061,"scrollY":593}
 ]
